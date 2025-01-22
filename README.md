@@ -1,15 +1,15 @@
-# Publications
+# 🔬 Publications
 for a full listing, take a look at either [Google Scholar](https://scholar.google.de/citations?user=6h9XLFwAAAAJ&hl=de&oi=ao) or [ORCID](https://orcid.org/0000-0002-6265-9877)
 
-# Supervision
-## currently
+# 👨‍🎓 Supervision
+## Currently
 - (**master thesis**) *K. Kunkel*: Predictability of electrical loads of different domains - An empirical study through benchmarking using artificial intelligence (AI) / Prognostizierbarkeit elektrischer Lasten verschiedener Domänen – Eine empirische Untersuchung mittels Benchmark unter Verwendung von Künstlicher Intelligenz (KI)
 - (**master thesis**) *D. Gekeler*: Integration of open data weather data to improve the forecast of electrical loads of industrial consumers using artificial intelligence (AI) / Integration von Open Data Wetterdaten zur Verbesserung der Prognose von elektrischen Lasten industrieller Verbraucher unter Verwendung von Künstlicher Intelligenz (KI)
   
 ## Past
 - (**master thesis**) *M. Gu*: Integration of Production Planning Data for Improving Electric Load Forecasting Using Artificial Intelligence [2024]
 
-# Review Activities
+# 📚 Review Activities
 - [Energy & AI](https://www.sciencedirect.com/journal/energy-and-ai)
   - An Artificial Intelligence Framework for Explainable Drift Detection in Energy Forecasting [DOI](https://doi.org/10.1016/j.egyai.2024.100403) [2024]
   - *Anonymous Title* (reject) [2024]  
@@ -19,7 +19,7 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
   - Optimizing Energy Storage Profits: A New Metric for Evaluating Price Forecasting Models [DOI](https://doi.org/10.3390/jrfm17120538) [2024]   
 
 
-# Code and side projects
+# 💻Code and side projects
 ## Publicly Available Datasets For Electric Load Forecasting
 ![Header1](https://github.com/user-attachments/assets/d06fd4a8-9dea-462b-bc8f-ce1002430c12)
 
