@@ -14,7 +14,7 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
   - An Artificial Intelligence Framework for Explainable Drift Detection in Energy Forecasting [DOI](https://doi.org/10.1016/j.egyai.2024.100403) [2024]
   - *Anonymous Title* (reject) [2024]  
 - [Applied Sciences](https://www.mdpi.com/journal/applsci)
-  - *Anonymous Title* (reject) [2024]  
+  - Self-Adaptive Clustering Model Based on Variable Time-Series Similarity Measure Analysis for V2G Electricity Price Prediction [DOI](https://doi.org/10.3390/app15042069) [2024]  
 - [Journal of Risk and Financial Management](https://www.mdpi.com/journal/jrfm)
   - Optimizing Energy Storage Profits: A New Metric for Evaluating Price Forecasting Models [DOI](https://doi.org/10.3390/jrfm17120538) [2024]
 - [Journal of Renewable and Sustainable Energy](https://pubs.aip.org/aip/jrse)
