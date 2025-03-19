@@ -19,7 +19,8 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
   - Optimizing Energy Storage Profits: A New Metric for Evaluating Price Forecasting Models [DOI](https://doi.org/10.3390/jrfm17120538) [2024]
 - [Journal of Renewable and Sustainable Energy](https://pubs.aip.org/aip/jrse)
   - *Anonymous Title* (still in review) [2025]
-
+- [IEEE Communications Standards Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine)
+  - *Anonymous Title* (still in review) [2025]
 
 # 💻Code and side projects
 ## Publicly Available Datasets For Electric Load Forecasting
