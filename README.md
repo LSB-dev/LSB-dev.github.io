@@ -3,10 +3,10 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
 
 # 👨‍🎓 Supervision
 ## Currently
-- (**master thesis**) *K. Kunkel*: Predictability of electrical loads of different domains - An empirical study through benchmarking using artificial intelligence (AI) / Prognostizierbarkeit elektrischer Lasten verschiedener Domänen – Eine empirische Untersuchung mittels Benchmark unter Verwendung von Künstlicher Intelligenz (KI)
 - (**master thesis**) *D. Gekeler*: Integration of open data weather data to improve the forecast of electrical loads of industrial consumers using artificial intelligence (AI) / Integration von Open Data Wetterdaten zur Verbesserung der Prognose von elektrischen Lasten industrieller Verbraucher unter Verwendung von Künstlicher Intelligenz (KI)
   
 ## Past
+- (**master thesis**) *K. Kunkel*: Predictability of electrical loads of different domains - An empirical study through benchmarking using artificial intelligence (AI) / Prognostizierbarkeit elektrischer Lasten verschiedener Domänen – Eine empirische Untersuchung mittels Benchmark unter Verwendung von Künstlicher Intelligenz (KI) [2025]
 - (**master thesis**) *M. Gu*: Integration of Production Planning Data for Improving Electric Load Forecasting Using Artificial Intelligence [2024]
 
 # 📚 Review Activities
