@@ -10,6 +10,8 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
 - (**master thesis**) *M. Gu*: Integration of Production Planning Data for Improving Electric Load Forecasting Using Artificial Intelligence [2024]
 
 # 📚 Review Activities
+- [Applied Energy](https://www.sciencedirect.com/journal/applied-energy)
+  - *Anonymous Title* (still in review) [2025]   
 - [Energy & AI](https://www.sciencedirect.com/journal/energy-and-ai)
   - An Artificial Intelligence Framework for Explainable Drift Detection in Energy Forecasting [DOI](https://doi.org/10.1016/j.egyai.2024.100403) [2024]
   - *Anonymous Title* (reject) [2024]  
