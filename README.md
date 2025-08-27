@@ -3,10 +3,10 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
 
 # 👨‍🎓 Supervision
 ## Currently
-*Currently no active thesis, but several topics open for application*
+- (**bachelor thesis**) *C. Rappold*: Benchmark of zero-shot prediction models for forecasting electrical loads in an industrial context / Benchmark von Zero-Shot Vorhersagemodellen für die Prognose von elektrischen Lasten im industriellen Kontext [2025]
 
 ## Past
-- (**master thesis**) *D. Gekeler*: Integration of open data weather data to improve the forecast of electrical loads of industrial consumers using artificial intelligence (AI) / Integration von Open Data Wetterdaten zur Verbesserung der Prognose von elektrischen Lasten industrieller Verbraucher unter Verwendung von Künstlicher Intelligenz (KI) [2025]
+- (**master thesis**) *D. Gekeler*: Integration of open weather data to improve the forecast of electrical loads of industrial consumers using artificial intelligence (AI) / Integration von Open Data Wetterdaten zur Verbesserung der Prognose von elektrischen Lasten industrieller Verbraucher unter Verwendung von Künstlicher Intelligenz (KI) [2025]
 - (**master thesis**) *K. Kunkel*: Predictability of electrical loads of different domains - An empirical study through benchmarking using artificial intelligence (AI) / Prognostizierbarkeit elektrischer Lasten verschiedener Domänen – Eine empirische Untersuchung mittels Benchmark unter Verwendung von Künstlicher Intelligenz (KI) [2025]
 - (**master thesis**) *M. Gu*: Integration of Production Planning Data for Improving Electric Load Forecasting Using Artificial Intelligence [2024]
 
