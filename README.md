@@ -26,7 +26,8 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
   - *Anonymous Title* (still in review) [2025]
 - [IEEE Transactions on Power Systems](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=59)
   - *Anonymous Title* (still in review) [2025]
-
+- [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+  - *Anonymous Title* (still in review) [2025]
 
 # 💻Code and side projects
 ## Publicly Available Datasets For Electric Load Forecasting
