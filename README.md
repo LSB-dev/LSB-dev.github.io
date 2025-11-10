@@ -28,6 +28,10 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
   - *Anonymous Title* (still in review) [2025]
 - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
   - *Anonymous Title* (still in review) [2025]
+- [International Journal of Forecasting]([https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence](https://www.sciencedirect.com/journal/international-journal-of-forecasting))
+  - *Anonymous Title* (still in review) [2025]
+ 
+  - 
 
 # 💻Code and side projects
 ## Publicly Available Datasets For Electric Load Forecasting
