@@ -43,4 +43,10 @@ The datasets were identified through a comprehensive review of representative pu
 
 Many thanks to V. Chandramouli for his outstanding support and excellent cooperation.
 
+## PayBidAI - Publicly Available Forecast for German Control Reserve Market
+![Header1](Images/payBidAI_screenshot.png)
 
+Based on a [previously published paper](https://doi.org/10.1016/j.ijepes.2025.111269), this dashboard was developed. It calculates a daily day-ahead forecast for the balancing energy prices of four German balancing energy markets.
+It is the first public forecasting tool of its kind.
+
+The [PayBidAI Dashboard is available here](https://paybidai.ipa.fraunhofer.de/?).
