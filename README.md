@@ -25,7 +25,7 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
 - [IEEE Communications Standards Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine)
   - *Anonymous Title* (still in review) [2025]
 - [IEEE Transactions on Power Systems](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=59)
-  - *Anonymous Title* (still in review) [2025]
+  - A Unified Explanation Framework for Probabilistic Load Forecasting via Feature Uncertainty Propagation [DOI](https://doi.org/10.1109/TPWRS.2025.3616422) [2025]
 - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
   - *Anonymous Title* (still in review) [2025]
 - [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting)
