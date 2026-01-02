@@ -12,24 +12,24 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
 
 # 📚 Review Activities
 - [Applied Energy](https://www.sciencedirect.com/journal/applied-energy)
-  - *Anonymous Title* (still in review) [2025]   
+  - *Anonymous Title* (status: still in review) [2025]   
 - [Energy & AI](https://www.sciencedirect.com/journal/energy-and-ai)
   - An Artificial Intelligence Framework for Explainable Drift Detection in Energy Forecasting [DOI](https://doi.org/10.1016/j.egyai.2024.100403) [2024]
-  - *Anonymous Title* (reject) [2024]  
+  - *Anonymous Title* (rejected) [2024]  
 - [Applied Sciences](https://www.mdpi.com/journal/applsci)
   - Self-Adaptive Clustering Model Based on Variable Time-Series Similarity Measure Analysis for V2G Electricity Price Prediction [DOI](https://doi.org/10.3390/app15042069) [2024]  
 - [Journal of Risk and Financial Management](https://www.mdpi.com/journal/jrfm)
   - Optimizing Energy Storage Profits: A New Metric for Evaluating Price Forecasting Models [DOI](https://doi.org/10.3390/jrfm17120538) [2024]
 - [Journal of Renewable and Sustainable Energy](https://pubs.aip.org/aip/jrse)
-  - *Anonymous Title* (still in review) [2025]
+  - *Anonymous Title* (status: still in review) [2025]
 - [IEEE Communications Standards Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine)
-  - *Anonymous Title* (still in review) [2025]
+  - *Anonymous Title* (status: still in review) [2025]
 - [IEEE Transactions on Power Systems](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=59)
   - A Unified Explanation Framework for Probabilistic Load Forecasting via Feature Uncertainty Propagation [DOI](https://doi.org/10.1109/TPWRS.2025.3616422) [2025]
 - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
-  - *Anonymous Title* (still in review) [2025]
+  - *Anonymous Title* (status: still in review) [2025]
 - [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting)
-  - *Anonymous Title* (still in review) [2025]
+  - *Anonymous Title* (rejected) [2025]
 
  
 
