@@ -28,7 +28,7 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
 - [IEEE Transactions on Power Systems](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=59)
   - A Unified Explanation Framework for Probabilistic Load Forecasting via Feature Uncertainty Propagation [DOI](https://doi.org/10.1109/TPWRS.2025.3616422) [2025]
 - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
-  - *Anonymous Title* (status: still in review) [2025]
+  - A Convolutional Neural Network-Long Short-Term Memory Hybrid Deep Learning Model for Predicting Uncontrollable Energy Consumption Balance in France [2025]
 - [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting)
   - *Anonymous Title* (rejected) [2025]
 
