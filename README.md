@@ -4,6 +4,7 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
 # 👨‍🎓 Supervision
 ## Currently
 - (**master thesis**) *S. Becher*: Profitability analysis of variable electricity price tariffs for industrial energy procurement / Profitabilitätsanalyse von variablen Strompreistarifen für die industrielle Energiebeschaffung [2026]
+- (**internship project**) *G. Schmid*: Dashboard for Publicly Available Datasets PADELF [2026]
 
 ## Past
 - (**bachelor thesis**) *C. Rappold*: Benchmark of zero-shot prediction models for forecasting electrical loads in an industrial context / Benchmark von Zero-Shot Vorhersagemodellen für die Prognose von elektrischen Lasten im industriellen Kontext [2025]
