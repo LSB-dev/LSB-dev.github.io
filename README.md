@@ -3,10 +3,11 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
 
 # 👨‍🎓 Supervision
 ## Currently
+- (**master thesis**) *P. Strobel*: Large-scale analysis of the predictability of industrial energy demands using zero-shot models / Large-scale Analyse der Prognostizierbarkeit von industriellen Lasten mittels Zero-Shot Modellen [2026]
 - (**master thesis**) *S. Becher*: Profitability analysis of variable electricity price tariffs for industrial energy procurement / Profitabilitätsanalyse von variablen Strompreistarifen für die industrielle Energiebeschaffung [2026]
-- (**internship project**) *G. Schmid*: Dashboard for Publicly Available Datasets PADELF [2026]
 
 ## Past
+- (**internship project**) *G. Schmid*: Dashboard for Publicly Available Datasets PADELF [2026]
 - (**bachelor thesis**) *C. Rappold*: Benchmark of zero-shot prediction models for forecasting electrical loads in an industrial context / Benchmark von Zero-Shot Vorhersagemodellen für die Prognose von elektrischen Lasten im industriellen Kontext [2025]
 - (**master thesis**) *D. Gekeler*: Integration of open weather data to improve the forecast of electrical loads of industrial consumers using artificial intelligence (AI) / Integration von Open Data Wetterdaten zur Verbesserung der Prognose von elektrischen Lasten industrieller Verbraucher unter Verwendung von Künstlicher Intelligenz (KI) [2025]
 - (**master thesis**) *K. Kunkel*: Predictability of electrical loads of different domains - An empirical study through benchmarking using artificial intelligence (AI) / Prognostizierbarkeit elektrischer Lasten verschiedener Domänen – Eine empirische Untersuchung mittels Benchmark unter Verwendung von Künstlicher Intelligenz (KI) [2025]
