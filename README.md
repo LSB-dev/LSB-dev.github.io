@@ -1,5 +1,5 @@
 # 🔬 Publications
-for a full listing, take a look at either [Google Scholar](https://scholar.google.de/citations?user=6h9XLFwAAAAJ&hl=de&oi=ao) or [ORCID](https://orcid.org/0000-0002-6265-9877)
+For a full listing, take a look at either [Google Scholar](https://scholar.google.de/citations?user=6h9XLFwAAAAJ&hl=de&oi=ao) or [ORCID](https://orcid.org/0000-0002-6265-9877)
 
 # 👨‍🎓 Supervision
 ## Currently
@@ -34,9 +34,9 @@ for a full listing, take a look at either [Google Scholar](https://scholar.googl
 - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
   - A Convolutional Neural Network-Long Short-Term Memory Hybrid Deep Learning Model for Predicting Uncontrollable Energy Consumption Balance in France [2025]
 - [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting)
+  - *Anonymous Title* (still in review) [2026]
   - *Anonymous Title* (rejected) [2025]
-
- 
+   
 
 # 💻Code and side projects
 ## Publicly Available Datasets For Electric Load Forecasting
