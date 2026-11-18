@@ -23,6 +23,7 @@ _currently available for thesis supervision_
 - (**master thesis**) *M. Gu*: Integration of Production Planning Data for Improving Electric Load Forecasting Using Artificial Intelligence [2024]
 
 # 📚 Review Activities
+
 | Journal | 2024 | 2025 | 2026 | **TOTAL** |
 |:---|---:|---:|---:|---:|
 | [Applied Energy](https://www.sciencedirect.com/journal/applied-energy) | 0 | 2 | 0 | **2** |
@@ -35,7 +36,8 @@ _currently available for thesis supervision_
 | [Energy Reports](https://www.sciencedirect.com/journal/energy-reports) | 0 | 0 | 1 | **1** |
 | [Applied Sciences](https://www.mdpi.com/journal/applsci) | 1 | 0 | 0 | **1** |
 | [Journal of Risk and Financial Management](https://www.mdpi.com/journal/jrfm) | 1 | 0 | 0 | **1** |
-| **TOTAL** | **4** | **7** | **2** | **13** |   
+| **TOTAL** | **4** | **7** | **2** | **13** |  
+
 
 # 💻Code and side projects
 ## Publicly Available Datasets For Electric Load Forecasting
