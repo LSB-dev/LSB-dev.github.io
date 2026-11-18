@@ -23,28 +23,19 @@ _currently available for thesis supervision_
 - (**master thesis**) *M. Gu*: Integration of Production Planning Data for Improving Electric Load Forecasting Using Artificial Intelligence [2024]
 
 # 📚 Review Activities
-- [Applied Energy](https://www.sciencedirect.com/journal/applied-energy)
-  - *Anonymous Title* (status: still in review) [2025]   
-- [Energy & AI](https://www.sciencedirect.com/journal/energy-and-ai)
-  - An Artificial Intelligence Framework for Explainable Drift Detection in Energy Forecasting [DOI](https://doi.org/10.1016/j.egyai.2024.100403) [2024]
-  - *Anonymous Title* (rejected) [2024]  
-- [Applied Sciences](https://www.mdpi.com/journal/applsci)
-  - Self-Adaptive Clustering Model Based on Variable Time-Series Similarity Measure Analysis for V2G Electricity Price Prediction [DOI](https://doi.org/10.3390/app15042069) [2024]  
-- [Journal of Risk and Financial Management](https://www.mdpi.com/journal/jrfm)
-  - Optimizing Energy Storage Profits: A New Metric for Evaluating Price Forecasting Models [DOI](https://doi.org/10.3390/jrfm17120538) [2024]
-- [Journal of Renewable and Sustainable Energy](https://pubs.aip.org/aip/jrse)
-  - *Anonymous Title* (status: still in review) [2025]
-- [IEEE Communications Standards Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine)
-  - *Anonymous Title* (status: still in review) [2025]
-- [IEEE Transactions on Power Systems](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=59)
-  - A Unified Explanation Framework for Probabilistic Load Forecasting via Feature Uncertainty Propagation [DOI](https://doi.org/10.1109/TPWRS.2025.3616422) [2025]
-- [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
-  - A Convolutional Neural Network-Long Short-Term Memory Hybrid Deep Learning Model for Predicting Uncontrollable Energy Consumption Balance in France [2025]
-- [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting)
-  - *Anonymous Title* (still in review) [2026]
-  - *Anonymous Title* (rejected) [2025]
-- [Energy Reports](https://www.sciencedirect.com/journal/energy-reports)
-  - *Anonymous Title* (status: still in review) [2026]      
+| Journal | 2024 | 2025 | 2026 | **TOTAL** |
+|:---|---:|---:|---:|---:|
+| [Applied Energy](https://www.sciencedirect.com/journal/applied-energy) | 0 | 2 | 0 | **2** |
+| [Energy & AI](https://www.sciencedirect.com/journal/energy-and-ai) | 2 | 0 | 0 | **2** |
+| [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting) | 0 | 1 | 1 | **2** |
+| [IEEE Transactions on Power Systems](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=59) | 0 | 1 | 0 | **1** |
+| [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | 0 | 1 | 0 | **1** |
+| [Journal of Renewable and Sustainable Energy](https://pubs.aip.org/aip/jrse) | 0 | 1 | 0 | **1** |
+| [IEEE Communications Standards Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine) | 0 | 1 | 0 | **1** |
+| [Energy Reports](https://www.sciencedirect.com/journal/energy-reports) | 0 | 0 | 1 | **1** |
+| [Applied Sciences](https://www.mdpi.com/journal/applsci) | 1 | 0 | 0 | **1** |
+| [Journal of Risk and Financial Management](https://www.mdpi.com/journal/jrfm) | 1 | 0 | 0 | **1** |
+| **TOTAL** | **4** | **7** | **2** | **13** |   
 
 # 💻Code and side projects
 ## Publicly Available Datasets For Electric Load Forecasting
