@@ -1,17 +1,24 @@
 # 🔬 Publications
-For a full listing, take a look at either [Google Scholar](https://scholar.google.de/citations?user=6h9XLFwAAAAJ&hl=de&oi=ao) or [ORCID](https://orcid.org/0000-0002-6265-9877)
+For a full listing, take a look at either 
+- [Google Scholar](https://scholar.google.de/citations?user=6h9XLFwAAAAJ&hl=de&oi=ao) or
+- [ORCID](https://orcid.org/0000-0002-6265-9877)
 
 # 👨‍🎓 Supervision
 ## Currently
-- (**master thesis**) *P. Strobel*: Large-scale analysis of the predictability of industrial energy demands using zero-shot models / Large-scale Analyse der Prognostizierbarkeit von industriellen Lasten mittels Zero-Shot Modellen [2026]
-- (**master thesis**) *S. Becher*: Profitability analysis of variable electricity price tariffs for industrial energy procurement / Profitabilitätsanalyse von variablen Strompreistarifen für die industrielle Energiebeschaffung [2026]
+_currently available for thesis supervision_
 
 ## Past
-### 2025
+
+### 2026
+- (**master thesis**) *P. Strobel*: Large-scale analysis of the predictability of industrial energy demands using zero-shot models / Large-scale Analyse der Prognostizierbarkeit von industriellen Lasten mittels Zero-Shot Modellen [2026]
+- (**master thesis**) *S. Becher*: Profitability analysis of variable electricity price tariffs for industrial energy procurement / Profitabilitätsanalyse von variablen Strompreistarifen für die industrielle Energiebeschaffung [2026]
 - (**internship project**) *G. Schmid*: Dashboard for Publicly Available Datasets PADELF [2026]
+
+### 2025
 - (**bachelor thesis**) *C. Rappold*: Benchmark of zero-shot prediction models for forecasting electrical loads in an industrial context / Benchmark von Zero-Shot Vorhersagemodellen für die Prognose von elektrischen Lasten im industriellen Kontext [2025]
 - (**master thesis**) *D. Gekeler*: Integration of open weather data to improve the forecast of electrical loads of industrial consumers using artificial intelligence (AI) / Integration von Open Data Wetterdaten zur Verbesserung der Prognose von elektrischen Lasten industrieller Verbraucher unter Verwendung von Künstlicher Intelligenz (KI) [2025]
 - (**master thesis**) *K. Kunkel*: Predictability of electrical loads of different domains - An empirical study through benchmarking using artificial intelligence (AI) / Prognostizierbarkeit elektrischer Lasten verschiedener Domänen – Eine empirische Untersuchung mittels Benchmark unter Verwendung von Künstlicher Intelligenz (KI) [2025]
+
 ### 2024
 - (**master thesis**) *M. Gu*: Integration of Production Planning Data for Improving Electric Load Forecasting Using Artificial Intelligence [2024]
 
@@ -36,7 +43,8 @@ For a full listing, take a look at either [Google Scholar](https://scholar.googl
 - [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting)
   - *Anonymous Title* (still in review) [2026]
   - *Anonymous Title* (rejected) [2025]
-   
+- [Energy Reports](https://www.sciencedirect.com/journal/energy-reports)
+  - *Anonymous Title* (status: still in review) [2026]      
 
 # 💻Code and side projects
 ## Publicly Available Datasets For Electric Load Forecasting
