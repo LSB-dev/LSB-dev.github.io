@@ -88,3 +88,10 @@ Based on a [previously published paper](https://doi.org/10.1016/j.ijepes.2025.11
 It is the first public forecasting tool of its kind.
 
 The [PayBidAI Dashboard is available here](https://paybidai.ipa.fraunhofer.de/?).
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
