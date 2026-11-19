@@ -1,6 +1,9 @@
 # Research Page | Lukas Baur
 
 
+<br/>
+<br/>
+
 # 👨‍🎓 Supervision
 ## Currently
 _currently available for thesis supervision. Feel free to [contact me](mailto:lukas.baur@ipa.fraunhofer.de)._
