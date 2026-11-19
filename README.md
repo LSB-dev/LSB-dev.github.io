@@ -1,3 +1,6 @@
+# Research Page | Lukas Baur
+
+
 # 🔬 Publications
 For a full listing, take a look at either 
 - [Google Scholar](https://scholar.google.de/citations?user=6h9XLFwAAAAJ&hl=de&oi=ao) or
