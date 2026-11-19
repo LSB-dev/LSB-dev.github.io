@@ -1,14 +1,9 @@
 # Research Page | Lukas Baur
 
 
-# 🔬 Publications
-For a full listing, take a look at either 
-- [Google Scholar](https://scholar.google.de/citations?user=6h9XLFwAAAAJ&hl=de&oi=ao) or
-- [ORCID](https://orcid.org/0000-0002-6265-9877)
-
 # 👨‍🎓 Supervision
 ## Currently
-_currently available for thesis supervision_
+_currently available for thesis supervision. Feel free to [contact me](mailto:lukas.baur@ipa.fraunhofer.de)._
 
 ## Past
 
@@ -25,6 +20,11 @@ _currently available for thesis supervision_
 ### 2024
 - (**master thesis**) *M. Gu*: Integration of Production Planning Data for Improving Electric Load Forecasting Using Artificial Intelligence [2024]
 
+
+<br/>
+<br/>
+
+
 # 📚 Review Activities
 
 | Journal | 2024 | 2025 | 2026 | **TOTAL** |
@@ -40,6 +40,19 @@ _currently available for thesis supervision_
 | [Applied Sciences](https://www.mdpi.com/journal/applsci) | 1 | 0 | 0 | **1** |
 | [Journal of Risk and Financial Management](https://www.mdpi.com/journal/jrfm) | 1 | 0 | 0 | **1** |
 | **TOTAL** | **4** | **7** | **2** | **13** |  
+
+
+<br/>
+<br/>
+
+
+# 🔬 Publications
+For a full listing, take a look at either 
+- [Google Scholar](https://scholar.google.de/citations?user=6h9XLFwAAAAJ&hl=de&oi=ao) or
+- [ORCID](https://orcid.org/0000-0002-6265-9877)
+
+<br/>
+<br/>
 
 
 # 💻Code and side projects
