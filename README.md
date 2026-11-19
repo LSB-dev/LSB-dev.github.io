@@ -43,11 +43,24 @@ _currently available for thesis supervision_
 ## Publicly Available Datasets For Electric Load Forecasting
 ![Header1](https://github.com/user-attachments/assets/d06fd4a8-9dea-462b-bc8f-ce1002430c12)
 
-[This repository](https://github.com/LSB-dev/Publicly-Available-Datasets-For-Electric-Load-Forecasting) was created to provide a **curated list of the most popular electric load forecasting (LF)** datasets, simplifying the search for researchers and practitioners. Finding suitable datasets can be challenging, so the goal was to identify and **make publicly accessible data easier** to locate and use.
+### Core
+This [repository 'PADELF'](https://github.com/LSB-dev/Publicly-Available-Datasets-For-Electric-Load-Forecasting) was created to provide a **curated list of the most popular electric load forecasting (LF)** datasets, simplifying the search for researchers and practitioners. Finding suitable datasets can be challenging, so the goal was to identify and **make publicly accessible data easier** to locate and use.
 
 The datasets were identified through a comprehensive review of representative publications, then extracted, structured, and analyzed. **Contributions** are welcome—whether feedback, suggestions, or new datasets. Join us in enhancing this resource by submitting a pull request!
 
 Many thanks to V. Chandramouli for his outstanding support and excellent cooperation.
+
+![logo](https://github.com/user-attachments/assets/812a00bb-8bee-4e67-b85b-c5c1a37a8674)
+
+### PyPi Extention
+
+
+Later, based on the PADELF repository, a Python package ([PyPi](https://pypi.org/project/padelf/), [GitHub](https://github.com/LSB-dev/PADELF-PIP)) was created to simplify access to publicly available data.
+
+Many thanks to G. Schmid for his great work and the well-documented codebase
+
+![logo](https://github.com/LSB-dev/PADELF-PIP/raw/main/images/logo_padelf_pip.png)
+
 
 ## PayBidAI - Publicly Available Forecast for German Control Reserve Market
 ![Header1](Images/payBidAI_screenshot.png)
